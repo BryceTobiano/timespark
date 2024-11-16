@@ -1,4 +1,4 @@
-# clock-boom
+# timespark
 ITP 460 Team Bravo Project
 Group Member Names:
 1. Bryce Tobiano - tobiano@usc.edu
