@@ -18,11 +18,11 @@
 
 import { useState } from 'react';
 import Navbar from '../../components/nav/nav';
-import TimeMatcher1 from '../../time_matcher/component/timematcher1';
-import TimeMatcher2 from '../../time_matcher/component/timematcher2';
-import TimeMatcher3 from '../../time_matcher/component/timematcher3';
-import TimeMatcher4 from '../../time_matcher/component/timematcher4';
-import TimeMatcher5 from '../../time_matcher/component/timematcher5';
+import TimeMatcher1 from '../../components/time_matcher/timematcher1';
+import TimeMatcher2 from '../../components/time_matcher/timematcher2';
+import TimeMatcher3 from '../../components/time_matcher/timematcher3';
+import TimeMatcher4 from '../../components/time_matcher/timematcher4';
+import TimeMatcher5 from '../../components/time_matcher/timematcher5';
 
 const TimeMatcherPage = () => {
   const [step, setStep] = useState(1);
